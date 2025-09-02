@@ -6,7 +6,7 @@ A festive and interactive Pookalam (floral arrangement) that blooms into existen
 
 ##  live Demo
 
-**[Click here to view the live animation!](your-github-pages-link-here)**
+**[Click here to view the live animation!](https://henry4501.github.io/Code-a-Pookalam/)**
 
 ## Features
 
