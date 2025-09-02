@@ -2,7 +2,7 @@
 
 A festive and interactive Pookalam (floral arrangement) that blooms into existence, complete with flickering diyas. This project was created to celebrate the spirit of Onam.
 
-![Pookalam Animation](link-to-your-gif-here.gif)
+![Pookalam Animation](https://github.com/Henry4501/Code-a-Pookalam/blob/main/Pookalam_animated.gif?raw=true)
 
 ##  live Demo
 
